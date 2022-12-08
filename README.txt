@@ -1,8 +1,9 @@
-##READ ME
+# hanging-man
 
-SOCIAL HUB
+A fun game of Hang-man. Created with HTML, CSS, JavaScript, and Tailwind.
 
-An app similar to Pinterest with CRUD functionality.
+# DEMO
 
-technologies:
-HTML, CSS, Next.js, Sanity.io
+https://social-hub.netlify.app/
+
+
