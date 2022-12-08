@@ -4,7 +4,7 @@ A fun game of Hang-man. Created with HTML, CSS, JavaScript, and Tailwind.
 
 # DEMO
 
-https://social-hub.netlify.app/
+
 
 
 
