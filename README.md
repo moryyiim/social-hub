@@ -1,10 +1,10 @@
-# Hanging-man
+# Social Hub
 
-A fun game of Hang-man. Created with HTML, CSS, JavaScript, and Tailwind.
+This app is a clone similar to Pinterest that has full CRUD functionality. This was created using HTML, CSS, Next.js, and Sanity.io.
 
 # Demo
 
-https://hanging-man.netlify.app/
+https://social-hub.netlify.app/
 
 
 
